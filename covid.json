@@ -1,0 +1,14 @@
+[
+    {
+        "province" : "กระบี่",
+        "total_cases" : "13972",
+    },
+    {
+        "province" : "กรุงเทพมหานคร",
+        "total_cases" : "499343",
+    },
+    {
+        "province" : "กาญจนบุรี",
+        "total_cases" : "26806",
+    },
+]
